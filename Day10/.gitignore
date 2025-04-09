@@ -1,7 +1,1 @@
 *.class
-*.log
-/bin/
-/out/
-/target/
-/.idea/
-/*.iml
